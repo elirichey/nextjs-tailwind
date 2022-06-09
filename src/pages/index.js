@@ -4,8 +4,11 @@ export default function Home() {
   return (
     <div>
       <Head>
-        <title>NextJS App - Tailwind SASS</title>
-        <meta name="description" content="NextJS App with Tailwind and SASS" />
+        <title>Meddly NextJS App - Tailwind SASS</title>
+        <meta
+          name="description"
+          content="Meddly NextJS App with Tailwind and SASS"
+        />
         <link rel="icon" href="/favicon.ico" />
       </Head>
 
